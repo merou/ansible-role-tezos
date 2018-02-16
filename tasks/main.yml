@@ -1,0 +1,4 @@
+---
+# tasks file for ansible-role-tezos
+
+- include_tasks: setup.yml

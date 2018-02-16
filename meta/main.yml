@@ -1,0 +1,17 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: merou
+  description: 
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4.3
+  platforms:
+    - name: Debian
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
+  galaxy_tags:
+    - crypto
