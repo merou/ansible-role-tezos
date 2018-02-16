@@ -4,16 +4,16 @@ Allow you to run a tezos node on the Alphanet.
 
 ## Requirements
 
-It is required to run ansible 2.4.3 minimum.
+It is required to run ansible 2.4.3 minimum.  
 This role is currently tested and working on Debian 9, however it should work on all debian based distributions.
 
 ## Role Variables
 
-defaults/main.yml
+`defaults/main.yml`
 
-tezos_create_user: true
-tezos_user: tezos
-tezos_install_dir: /opt/tezos
+   tezos_create_user: true
+   tezos_user: tezos
+   tezos_install_dir: /opt/tezos
 
 ## Dependencies
 
