@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: merou
-  description: 
+  description: Allow you to run a tezos node on the Alphanet 
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4.3
   platforms:
