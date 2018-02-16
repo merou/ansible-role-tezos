@@ -11,9 +11,10 @@ This role is currently tested and working on Debian 9, however it should work on
 
 `defaults/main.yml`
 
-   tezos_create_user: true
-   tezos_user: tezos
-   tezos_install_dir: /opt/tezos
+`tezos_create_user: true`  
+`tezos_user: tezos`  
+`tezos_install_dir: /opt/tezos`  
+
 
 ## Dependencies
 
