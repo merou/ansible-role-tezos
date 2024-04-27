@@ -1,0 +1,11 @@
+{
+  "services": [
+    {
+      "name": "service1",
+      "dns": "lemonde.fr",
+      "dependencies": [
+        "https://www.lemonde.fr"
+      ]
+    }
+  ]
+}
