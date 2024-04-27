@@ -6,6 +6,13 @@
       "dependencies": [
         "https://www.lemonde.fr"
       ]
+    },
+    {
+      "name": "service2",
+      "dns": "lequipe.fr",
+      "dependencies": [
+        "https://www.lequipe.fr"
+      ]
     }
   ]
 }
